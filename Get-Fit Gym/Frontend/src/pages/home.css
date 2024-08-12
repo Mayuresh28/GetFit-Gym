@@ -1,0 +1,88 @@
+.inner-home-bg{
+background-image: url('../images/home-bg3.jpg');
+background-color: black;
+    height: 92vh;
+    width: 100vw;
+   opacity: 0.4;
+   z-index: 2;
+    
+}
+
+.home-bg{
+    background-color: black;
+    height: 92vh;
+    width: 100vw;
+    z-index: 1;  
+}
+
+.home-para{
+    color: white;
+    /* position: absolute;
+    top: 200px;
+    left: 150px; */
+    z-index: 3;
+   
+    
+}
+
+#home-btn-1{
+    padding: 15px;
+    margin: 30px;
+    background-color: #ED9623;
+    color: white;
+    font-size: 20px;
+    
+}
+
+.nav-link{
+
+    text-decoration: none;
+    color: white;
+
+}
+#home-btn-2{
+    padding: 15px;
+    margin: 30px;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+
+    border: 1px solid  #ED9623 ;
+    
+}
+
+#p1{
+    position: absolute;
+top: 220px;
+left: 180px;
+font-size: 40px;
+}
+#p2{
+    position: absolute;
+top: 290px;
+left: 180px;
+font-size: 25px;
+}
+#p3{
+    position: absolute;
+top: 340px;
+left: 180px;
+font-size: 18px;
+}
+#p4{
+    position: absolute;
+top: 370px;
+left: 150px;
+}
+
+#stamina{
+    color:#ED9623 ;
+    margin: 10px;
+    font-style: italic;
+
+}
+
+#get{
+    color: #ED9623;
+    font-weight: 600;
+}

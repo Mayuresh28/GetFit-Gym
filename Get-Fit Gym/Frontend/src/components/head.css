@@ -1,0 +1,37 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    display: inline-flex;
+    justify-content:center;
+    width: 100vw;
+   height: 8vh;
+   
+  }
+  
+  li {
+    float: left;
+  margin-top:20px ;
+    margin-right:80px ;
+    margin-left:80px ;
+  }
+  
+  .head-link{
+    display: block;
+    color: whitesmoke;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  
+    padding: 5px;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  .head-link:hover {
+    border-bottom: 2px solid whitesmoke ;
+    
+  }
+ 
+  

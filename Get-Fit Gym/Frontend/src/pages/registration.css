@@ -1,0 +1,133 @@
+#reg-bg{
+    /* height: 92vh; */
+    background-color:black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+#reg-row-bg-1{
+    
+    background-color:rgb(18, 18, 18);
+    /* height: 80vh; */
+    width: 80vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    transition: 2s;
+    border-radius: 5rem;
+   padding-left: 4rem;
+   padding-right: 4rem;
+    margin-bottom: 3.5rem;
+    margin-top: 2rem;
+    
+}
+#reg-row-bg-1:hover{
+    
+    box-shadow: 5px 5px 20px whitesmoke;
+   
+
+
+}
+#reg-row-bg-2{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+#form-title{
+    font-size: 30px;
+    color: white;
+ width: 15rem;
+    padding-bottom: 20px;
+    border-bottom: 3px solid #ED9623 ;
+ 
+}
+
+#form-head-ctn{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+#card-btn-1{
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+    background-color: black;
+    border: 2px solid #ED9623 ;
+    margin: 1rem;
+}
+
+#card-btn-2{
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+    background-color: black;
+    border: 2px solid #ED9623 ;
+    margin: 1rem;
+}
+
+#reg-btn-cnt{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.form-field{
+    background-color: black;
+    padding: 10px;
+    border-bottom: 2px solid white;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-radius: 0%;
+}
+.form-field::placeholder{
+    color: white;
+   
+}
+
+#form-col-21{
+    margin-right: 5rem;
+   /* margin-top: 2rem; */
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+#form-col-22{
+    margin-right: 5rem;
+  
+}
+
+.form-icon{
+    font-size: 2rem;
+    color: white;
+    margin-left: 10px;
+}
+
+#reg-table{
+    color: white;
+    border: 3px solid white;
+    padding: 5px;
+    margin: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 500px;
+
+}
+.reg-th{
+    
+    border: 2px solid white;
+    padding:4px;
+    margin: 4px;
+
+}
+.reg-td{
+    
+    border: 1px solid white;
+    padding: 10px;
+    margin: 5px;
+ 
+}

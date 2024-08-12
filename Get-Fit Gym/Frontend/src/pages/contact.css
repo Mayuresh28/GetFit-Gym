@@ -1,0 +1,153 @@
+#contact-bg{
+    height: 92vh;
+    background-color:black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+#con-row-bg1{
+    background-color:rgb(18, 18, 18);
+    height: 80vh;
+    width: 80vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    transition: 2s;
+    border-radius: 5rem;
+}
+#con-row-bg2{
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+#con-row-bg1:hover{
+    box-shadow: 5px 5px 20px whitesmoke;
+
+
+}
+
+.con-col-bg21
+{
+    background-color: rgb(18, 18, 18);
+    height: 50vh;
+    width: 18vw;
+    margin: 3rem;
+    padding: 2rem;
+    color: white;
+    /* justify-content: center; */
+    align-items: center;
+    transition: 1s;
+    border: 1px solid white;
+    border-radius: 10%;
+}
+
+.con-col-bg21:hover{
+    height: 52vh;
+    width: 22vw;
+}
+h1{
+    font-size: 30px;
+    color: white;
+ 
+    padding: 20px;
+    border-bottom: 3px solid white;
+    background-color: rgb(18, 18, 18);
+    display: inline-flex;
+    z-index: 2;
+
+}
+
+.con-card-icon{
+    background-color:rgb(18, 18, 18) ;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    margin: 1rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 0%;
+    font-size: 2rem;
+
+}
+
+#head-1{
+    border: 2px solid #03A1A4;
+
+}
+#head-2{
+    border: 2px solid #ED9623;
+
+}
+#head-3{
+    border: 2px solid  #EF2D50;
+
+}
+.con-card-head{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.con-card-head:hover{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.cont-title{
+    font-size: 1.5em;
+    padding: 1rem;
+    
+}
+
+#cont-para-cnt{
+    width: 15rem;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+    
+}
+.cont-para{
+    padding: 1.5rem;
+    font-size: 15px;
+
+}
+
+.social-icon{
+    background-color:rgb(18, 18, 18) ;
+    width: 2.7rem;
+    height: 2.7rem;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin: 1rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 0%;
+    font-size: 1.5rem;
+}
+
+#social-icon-cont{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 1rem;   
+    
+}
+
+#con-card-1{
+    border-top: 15px solid #03A1A4;
+
+}
+#con-card-2{
+    border-top: 15px solid #ED9623;
+
+}
+#con-card-3{
+    border-top: 15px solid #EF2D50;
+
+}
